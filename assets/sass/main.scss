@@ -69,3 +69,27 @@
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.section {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.text {
+    text-align: center;
+}
+
+.centera {
+   padding-left: 100px;
+}
+
+.centerab {
+    align-content: center;
+    text-align: center;
+}

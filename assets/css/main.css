@@ -3761,7 +3761,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 6rem 12rem 3rem 12rem;
 		}
 
 			#main > .post header.major > .date {
@@ -4660,3 +4660,8 @@ input, select, textarea {
 		}
 
 	}
+
+
+.centercss {
+    width:
+}
