@@ -2444,7 +2444,6 @@ a.logo:hover{
 .bg-color-alfa-90,
 .bg-color-alfa{
     color: #fff;
-    color: #fff;
 }
 .bg-dark a,
 .bg-dark-lighter a,
@@ -2460,7 +2459,7 @@ a.logo:hover{
 .bg-color-alfa-70 a,
 .bg-color-alfa-90 a,
 .bg-color-alfa a{
-    color: rgba(255,255,255, 1);
+    color: rgba(255,255,255, .8);
     padding-bottom: 3px;
     
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);  
